@@ -25,7 +25,7 @@ All you need is:
 * create a public repository on **_GitHub_**
 ##
 * Maintain the hierarchy of folders as shown in the picture
-! [](Https://vk.com/doc119194808_544778887?hash=b405025781ed6bfa49&dl=ce6fe7b8d28b7a51bf)
+! [picture](https://github.com/irinachulk/CreateCourseEasy/blob/master/2.png)
 ##
 * Register
 ##
